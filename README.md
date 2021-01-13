@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio of Data Projects
+# Data analytics protfolio by Matthew Konski
+This portfolio is intended to be a compilation of notebooks of data projects. They contain entail topics including data exploration, visualizations, data analysis and modelling. Seperate categories were created for different types of projects.
